@@ -1,5 +1,8 @@
 _repo: Voyage-of-the-Paper-Canoe--a-geographical-journey-of-2500-miles-from-Quebec-to-the-Gulf-of-Mex__1082
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bishop, Nathaniel H. (Nathaniel Holmes)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '532'
     url: http://www.gutenberg.org/2009/agents/532
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1082#Voyage-of-the-Paper-Canoe--a-geographical-journey-of-2500-miles-from-Quebec-to-the-Gulf-of-Mex_
 gutenberg_bookshelf: Travel
 gutenberg_issued: '1997-10-01'
 gutenberg_type: Text
